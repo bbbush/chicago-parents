@@ -8,8 +8,6 @@ to subscribe: Google Calendar
 # Chicago School GPS
 
 <http://www.chischoolgps.com/Calendar.php>
-<http://www.chischoolgps.com/Calendar.php/>
-[](http://www.chischoolgps.com/Calendar.php)
 
 ## Reviews
 
